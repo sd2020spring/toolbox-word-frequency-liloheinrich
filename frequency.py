@@ -62,9 +62,10 @@ def get_top_n_words(word_list, n):
 if __name__ == "__main__":
     print("Running WordFrequency Toolbox")
 
-    books = ["pg32325.txt", "verne A Journey to the Centre of the Earth.txt",
-            "asimov Worlds Within Worlds: The Story of Nuclear Energy.txt",
-            "wells Tales of Space and Time.txt"]
+    books = ["mark twain Adventures of Huckleberry Finn.txt", 
+            "jules verne A Journey to the Centre of the Earth.txt",
+            "isaac asimov Worlds Within Worlds: The Story of Nuclear Energy.txt",
+            "herbert wells Tales of Space and Time.txt"]
 
     for i in books:
         print(i)
