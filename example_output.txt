@@ -1,27 +1,3 @@
-I have inferred from this output that in these four books, the authors use the third-person more often than first-person on average, and refer more often to male than female characters.
-
-This would be more interesting if I could sort for word types such as pronouns, and return them as tuples with the value of either what rank that word is in sorted order of the words in each book or as the number of times the word was used in that book in relation to how many words the book has. That way I could give weighted values to each pronoun etc. and more accurately figure out from what kind of views a book was written.
-
-personal pronouns: 7/12
-'i': 3/4
-'me': 2/4
-'my': 2/4
-
-non-personal pronouns:  11/12
-'you': 4/4
-'we': 3/4
-'they': 4/4
-
-male pronouns: 10/12
-'he': 4/4
-'his': 3/4
-'him': 3/4
-
-female pronouns: 4/12
-'she': 2/4
-'her': 2/4
-'hers': 0/4
-
 Running WordFrequency Toolbox
 pg32325.txt
 115930
